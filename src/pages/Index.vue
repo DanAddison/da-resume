@@ -3,14 +3,14 @@
     <div class="container">
       <About/>
       <hr>
-      <!-- <Portfolio/>
-      <hr> -->
+      <Portfolio/>
+      <hr>
       <Experience/>
       <hr>
       <Skills/>
       <hr>
-      <Education/>
-      <hr>
+      <!-- <Education/>
+      <hr> -->
       <Interests/>
       <hr>
       <Contact/>
@@ -20,24 +20,24 @@
 
 <script>
 import About from "../components/About";
-// import Portfolio from "../components/Portfolio";
+import Portfolio from "../components/Portfolio";
 import Experience from "../components/Experience";
 import Skills from "../components/Skills";
-import Education from "../components/Education";
+// import Education from "../components/Education";
 import Interests from "../components/Interests";
 import Contact from "../components/Contact";
 export default {
   components: {
     About,
-    // Portfolio,
+    Portfolio,
     Experience,
     Skills,
-    Education,
+    // Education,
     Interests,
     Contact
   },
   metaInfo: {
-    title: "Ruby Resume",
+    title: "DA Resume",
   }
 };
 </script>

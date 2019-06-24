@@ -4,29 +4,39 @@
 
       <div class="resume-item">
         <div class="resume-content">
-          <h3>Freelance Artist</h3>
-          <p class="subheading">Animate Arts Company</p>
-          <p class="resume-date">March 2019 - present</p>
-          <p>Working with Animate Arts as part of their Art Builders project; this is an artist led schools programme enabling young people to work with artists. We are engaging 8 primary schools and 200 children in an action-based campaign aimed at bringing more creative happenings to education settings. I am currently working closely with two of the eight primary schools to deliver a programme of public events.</p>
+          <h3>Web Developer</h3>
+          <p class="subheading">Nebulo</p>
+          <p class="resume-date">June 2018 - present</p>
+          <p>Building bespoke WordPress websites within a small design agency, I am responsible for front end development. I work closely with two designers, with input from a part-time back-end developer. My role also includes client support and consultation. Our clients are primarily in the arts, education, and charity sectors.</p>
         </div>
       </div>
 
 
       <div class="resume-item">
         <div class="resume-content">
-          <h3>Project Coordinator / Freelance Artist / Volunteer</h3>
-          <p class="subheading">Strange Cargo Arts Company</p>
-          <p class="resume-date">2011 - present</p>
-          <p>I have an excellent ongoing professional relationship with Strange Cargo, contributing in any way I can to their grass-roots, participatory public arts projects. I have helped deliver a wide range of projects large and small, creating wonder and spectacle on tight budgets and time-constraints.</p>
+          <h3>Freelance Web Developer</h3>
+          <p class="subheading">Self Employed</p>
+          <p class="resume-date">September 2017 - present</p>
+          <p>I have designed, developed and launched 10 client websites to date, from simple portfolio sites built on Vue.js to e-commerce sites built on WordPress. I pride myself on solving problems for cash-strapped and time-poor creative individuals and businesses by taking them through the process as frictionlessly as possible.</p>
         </div>
       </div>
 
       <div class="resume-item">
         <div class="resume-content">
-          <h3>Learning and Engagement Officer</h3>
-          <p class="subheading">Sidney Cooper Gallery, Canterbury Christ Church University</p>
-          <p class="resume-date">September 2016 - July 2019</p>
-          <p>Responsible for outreach and audience development; creating a learning strategy in line with the ethos and educational policies of the institution. Generating public engagement with contemporary art, specifically in response to in-house exhibitions and events.</p>
+          <h3>Control Centre Operator</h3>
+          <p class="subheading">Folkestone &amp; Hythe  District Council</p>
+          <p class="resume-date">September 2016 - June 2018</p>
+          <p>Handling emergency Lifeline calls from elderly and vulnerable clients. Also handling emergency Out of Hours calls for Shepway Council and Thanet Council.
+          The role demanded efficient prioritising and rigorous attention to detail while under pressure, a level-headed approach to problem solving, and a passion for helping people and protecting their dignity.</p> 
+        </div>
+      </div>
+
+      <div class="resume-item">
+        <div class="resume-content">
+          <h3>Triennial Host</h3>
+          <p class="subheading">Creative Folkestone</p>
+          <p class="resume-date">2014 and 2017</p>
+          <p>Assisting in two consecutive major public art exhibitions. Leveraging my arts education, my local knowledge, and also my customer service experience to help visitors engage fully with individual works and with the exhibition as a whole. I also produced a YouTube video review of the exhibition which Creative Folkestone showed directly to many of the country's top art execs and curators.</p> 
         </div>
       </div>
       

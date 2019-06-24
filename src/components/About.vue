@@ -1,19 +1,29 @@
 <template>
   <section class="resume-section" id="about">
       <h1>
-        Ruby
-        <span class="text-primary">Bolton</span>
+        Dan
+        <span class="text-primary">Addison</span>
       </h1>
-      <p class="subheading">Artist / Educator</p>
-      <p class="lead">I work in education because I have a passion to engage young people, communities and individuals through learning. Giving people the opportunity to explore new things, to be creative and imaginative, is something I really value. I am experienced in curating and delivering exciting learning programmes, and in cultivating a diverse audience. I want to make a lasting impact on others through my work.</p>
+      <p class="subheading">Web Developer</p>
+      <p class="lead">I'm a web developer from Folkestone with a background in art and music.
+      I first started learning web development in 2016 using online resources, and began working professionally within a design agency in 2018.</p>
+      <p class="lead">This work satisfies some of my key drives: for being analytical and pragmatic, for creating compelling things, and for sharing with others.
+      I love learning, I love the small technical details, and I love steering a project from conception through to completion. </p>
 
       <div class="social-icons">
-        <a href="https://instagram.com" target="_blank" rel="noopener noreferrer">
+        <a href="https://github.com/DanAddison" target="_blank">
+          <font-awesome :icon="['fab', 'github']"/>
+        </a>
+        <a href="https://www.linkedin.com/in/danaddison/" target="_blank">
+          <font-awesome :icon="['fab', 'linkedin']"/>
+        </a>
+        <a href="https://youtube.com/c/DanAddison" target="_blank">
+          <font-awesome :icon="['fab', 'youtube']"/>
+        </a>
+        <a href="https://instagram.com/dandevelops" target="_blank">
           <font-awesome :icon="['fab', 'instagram']"/>
         </a>
-        <a href="https://www.facebook.com" target="_blank" rel="noopener noreferrer">
-          <font-awesome :icon="['fab', 'facebook']"/>
-        </a>
+
       </div>
   </section>
 </template>

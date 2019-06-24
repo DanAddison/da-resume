@@ -1,11 +1,11 @@
 <template>
   <nav class="navbar" id="sideNav">
     <div v-on:click.prevent="$scrollTo('#about')" class="navbar-brand">
-      <span class="name">Ruby Bolton</span>
+      <span class="name">Dan Addison</span>
       <span class="avatar">
         <g-image
-          alt="Ruby swimming in the ocean"
-          src="../assets/images/KefaloniaThumb2.jpg"
+          alt="Dan swimming in the ocean"
+          src="../assets/images/KefAvatarSquare.jpg"
           class="img-profile"
         />
       </span>
@@ -16,18 +16,18 @@
         <li class="nav-item">
           <a class="nav-link" v-on:click.prevent="$scrollTo('#about')">About</a>
         </li>
-        <!-- <li class="nav-item">
+        <li class="nav-item">
           <a class="nav-link" v-on:click.prevent="$scrollTo('#portfolio')">Portfolio</a>
-        </li> -->
+        </li>
         <li class="nav-item">
           <a class="nav-link" v-on:click.prevent="$scrollTo('#experience')">Experience</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" v-on:click.prevent="$scrollTo('#skills')">Skills</a>
         </li>
-        <li class="nav-item">
+        <!-- <li class="nav-item">
           <a class="nav-link" v-on:click.prevent="$scrollTo('#education')">Education</a>
-        </li>
+        </li> -->
         <li class="nav-item">
           <a class="nav-link" v-on:click.prevent="$scrollTo('#interests')">Interests</a>
         </li>

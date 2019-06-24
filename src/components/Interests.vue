@@ -1,8 +1,7 @@
 <template>
   <section class="resume-section" id="interests">
       <h2>Interests</h2>
-      <p class="lead">I'm from a large and very creative family, and have always made visual art. I particularly enjoy making collages, hand-made jewellery and paper-cut crafts. I also play piano, especially modern minimalist classical pieces.</p>
-      <p class="lead">I love family and friends, cycling and swimming, Netflix and chill and poached eggs.</p>
+      <p class="lead">I love low-angle sunshine, family and friends, indie cinema, languid bike rides, calisthenics, literary fiction, summer sea swimming, Shane Carruth, Alex Honnold, Rose Namajunas, Kendrick Lamar and Alan Partridge.</p>
   </section>
 </template>
 
