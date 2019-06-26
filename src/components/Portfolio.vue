@@ -5,14 +5,19 @@
       <div class="resume-item">
 
         <div class="portfolio-item">
-          <g-image
-            alt="John Hosking"
-            src="../assets/images/JH2-large.jpg"
-            class="img-profile"
-            height="300"
-            width="500"
-            fit="cover"
-          />
+          <a href="#" @click.prevent="show">
+            <g-image
+              alt="John Hosking"
+              src="../assets/images/JH2-large.jpg"
+              class="img-profile"
+              height="300"
+              width="500"
+              fit="cover"
+            />
+          </a>
+          <modal name="modal-project">
+            Dannyboy oh Dannyboyyyy!
+          </modal>
         </div>
 
         <div class="portfolio-item">
@@ -37,13 +42,26 @@
           />
         </div>
 
-
       </div>
       
   </section>
 </template>
 
 <script>
+
+
+export default {
+
+  methods: {
+
+    show () {
+      this.$modal.show('modal-project');
+    },
+    hide () {
+      this.$modal.hide('modal-project');
+    }
+  }
+}
 
 </script>
 

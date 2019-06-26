@@ -28,5 +28,9 @@ module.exports = {
     })
   },
   
-  plugins: []
+  plugins: [
+    {
+      use: 'gridsome-plugin-modal'
+    }
+  ]
 }
