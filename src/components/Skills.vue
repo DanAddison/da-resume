@@ -66,11 +66,12 @@
     font-size: 4rem;
     color: $copy-light;
     padding-right: 2rem;
-    cursor: pointer;
+    color: $primary;
+    // cursor: pointer;
 
-    &:hover {
-      color: $primary;
-    }
+    // &:hover {
+    //   color: $primary;
+    // }
   }
 }
 
@@ -85,6 +86,7 @@
 
   span {
     padding-right: 1em;
+    color: $primary;
   }
 }
 

@@ -33,7 +33,7 @@ form {
   max-width: 100%;
   label, input, textarea {
     display: block;
-    width: 100%;
+    width: 95%;
   }
   label {
     

@@ -6,7 +6,7 @@
       </h1>
       <p class="subheading">Web Developer</p>
       <p class="lead">I'm a web developer from Folkestone with a background in art and music.
-      I first started learning web development in 2016 using online resources, and began working professionally within a design agency in 2018.</p>
+      I have been delivering bespoke websites for clients since 2017, both solo and with design agency <a href="https://nebulodesign.com" class="link-text">Nebulo</a>.</p>
       <p class="lead">This work satisfies some of my key drives: for being analytical and pragmatic, for creating compelling things, and for sharing with others.
       I love learning, I love the small technical details, and I love steering a project from conception through to completion. </p>
 

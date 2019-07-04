@@ -1,6 +1,12 @@
 import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome'
 import { config, library } from '@fortawesome/fontawesome-svg-core'
-import { faCheck } from '@fortawesome/free-solid-svg-icons'
+
+import {
+  faCheck,
+  faTimes,
+  faExternalLinkAlt
+} from '@fortawesome/free-solid-svg-icons'
+
 import {
   faGithub,
   faInstagram,
@@ -17,6 +23,7 @@ import {
   faNpm,
   faGit  
 } from '@fortawesome/free-brands-svg-icons'
+
 import '@fortawesome/fontawesome-svg-core/styles.css'
 
 config.autoAddCss = false;
@@ -35,7 +42,9 @@ library.add(
   faGulp,
   faNpm,
   faGit,
-  faCheck
+  faCheck,
+  faTimes,
+  faExternalLinkAlt
 )
 
 export default function (Vue) {

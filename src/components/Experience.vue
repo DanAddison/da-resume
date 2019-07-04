@@ -23,20 +23,20 @@
 
       <div class="resume-item">
         <div class="resume-content">
-          <h3>Control Centre Operator</h3>
-          <p class="subheading">Folkestone &amp; Hythe  District Council</p>
-          <p class="resume-date">September 2016 - June 2018</p>
-          <p>Handling emergency Lifeline calls from elderly and vulnerable clients. Also handling emergency Out of Hours calls for Shepway Council and Thanet Council.
-          The role demanded efficient prioritising and rigorous attention to detail while under pressure, a level-headed approach to problem solving, and a passion for helping people and protecting their dignity.</p> 
+          <h3>Triennial Host</h3>
+          <p class="subheading">Creative Folkestone</p>
+          <p class="resume-date">2014 and 2017</p>
+          <p>Assisting in two consecutive major public art exhibitions. Leveraging my arts education, my local knowledge, and also my customer service experience to help visitors engage fully with individual works and with the exhibition as a whole. I also produced a YouTube video review of the exhibition which Creative Folkestone showed directly to many of the country's top art execs and curators.</p> 
         </div>
       </div>
 
       <div class="resume-item">
         <div class="resume-content">
-          <h3>Triennial Host</h3>
-          <p class="subheading">Creative Folkestone</p>
-          <p class="resume-date">2014 and 2017</p>
-          <p>Assisting in two consecutive major public art exhibitions. Leveraging my arts education, my local knowledge, and also my customer service experience to help visitors engage fully with individual works and with the exhibition as a whole. I also produced a YouTube video review of the exhibition which Creative Folkestone showed directly to many of the country's top art execs and curators.</p> 
+          <h3>Control Centre Operator</h3>
+          <p class="subheading">Folkestone &amp; Hythe  District Council</p>
+          <p class="resume-date">January 2015 - June 2018</p>
+          <p>Handling emergency Lifeline calls from elderly and vulnerable clients. Also handling emergency Out of Hours calls for Shepway Council and Thanet Council.
+          The role demanded efficient prioritising and rigorous attention to detail while under pressure, a level-headed approach to problem solving, and a passion for helping people and protecting their dignity.</p> 
         </div>
       </div>
       
