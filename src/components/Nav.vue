@@ -108,6 +108,12 @@
         display: block;
         padding: .25rem 0;
         color: $white-overlay2;
+        transition: .2s;
+
+        &:hover,
+        &:focus {
+          color: white;
+        }
       }
     }
   }

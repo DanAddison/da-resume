@@ -29,8 +29,6 @@ module.exports = {
   },
   
   plugins: [
-    {
-      use: 'gridsome-plugin-modal'
-    }
+
   ]
 }

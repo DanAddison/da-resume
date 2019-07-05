@@ -3,12 +3,10 @@
 
 import DefaultLayout from '~/layouts/Default.vue'
 import VueScrollTo from 'vue-scrollto'
-import VModal from 'vue-js-modal'
 
 export default function (Vue, { router, head, isClient }) {
   Vue.use(VueScrollTo)
   Vue.component('Layout', DefaultLayout)
-  Vue.use(VModal)
 
   head.link.push({
     rel: 'stylesheet',

@@ -5,54 +5,26 @@
       <div class="resume-item">
 
         <div class="portfolio-item">
-          <a href="#" @click.prevent="show">
-            <g-image
-              alt="jm-woodcraft.com screenshot"
-              src="../assets/images/portfolio/JM-Woodcraft.jpg"
-              class="img-profile"
-              height="312"
-              width="500"
-              fit="cover"
-            />
-          </a>
-          <modal name="modal-project" height="auto" :scrollable="true" :adaptive="true">
-            <div class="container">
+          <g-image
+            alt="jm-woodcraft.com screenshot"
+            src="../assets/images/portfolio/JM-Woodcraft.jpg"
+            height="312"
+            width="500"
+            fit="cover"
+          />
 
-              <div class="modal-copy">
-
-                <div slot="top-right" class="modal-close" @click="$modal.hide('modal-project')">
-                    <font-awesome :icon="['fas', 'times']"/>
-                </div>
-
-                <h1>JM Woodcraft</h1>
-                <p class="subtitle">A commercial website for a carpenter.</p>
-                <p>I built this bespoke WordPress site for JM Woodcraft to showcase their work by creating an organically growing archive of projects.</p>
-                <p>The archive is organised by category and tag, and projects feature an image carousel. This makes it easy for their prospective clients to find and review the type of work they're interested in.</p>
-                <p class="tech-stack"><span>Tech stack: </span>WordPress, Sass, jQuery, Gulp, Git</p>
-                <p class="modal-copy__link"><a href="https://jm-woodcraft.com" >Visit site<font-awesome :icon="['fas', 'external-link-alt']"/></a></p>
-                <p class="modal-copy__link"><a href="https://github.com/DanAddison/JM-Woodcraft" >View code<font-awesome :icon="['fab', 'github']"/></a></p>
-
-              </div><!--.modal-copy-->
-
-              <div class="modal-image">
-
-                <g-image
-                  alt="jm-woodcraft.com screenshot"
-                  src="../assets/images/portfolio/JM-Woodcraft_mobile.jpg"
-                  class="img-profile"
-                  height="660"
-                  width="300"
-                  fit="cover"
-                />
-
-              </div><!--.modal-image-->
-
-            </div><!--.container-->
-          </modal>
+          <div class="portfolio-item__overlay">
+            <h1>jm-woodcraft.com</h1>
+            <p class="subtitle">Bespoke WordPress site for a carpenter.</p>
+            <p class="tech-stack"><span>Tech stack: </span>WordPress, Sass, jQuery, Gulp, Git</p>
+            <div class="links">
+              <p><a href="https://jm-woodcraft.com" target="_blank">Visit site<font-awesome :icon="['fas', 'external-link-alt']"/></a></p>
+              <p><a href="https://github.com/DanAddison/JM-Woodcraft" target="_blank">View code<font-awesome :icon="['fab', 'github']"/></a></p>
+            </div>
+          </div>
         </div>
 
         <div class="portfolio-item">
-          <a href="#" @click.prevent="show">
             <g-image
               alt="johnhosking.com screenshot"
               src="../assets/images/portfolio/John-Hosking.jpg"
@@ -61,14 +33,19 @@
               width="500"
               fit="cover"
             />
-          </a>
-          <modal name="modal-project">
-            testing
-          </modal>
+
+            <div class="portfolio-item__overlay">
+              <h1>johnhosking.com</h1>
+              <p class="subtitle">A portfolio website for an artist.</p>
+              <p class="tech-stack"><span>Tech stack: </span>Sass, Nunjucks, jQuery, Gulp, Git</p>
+              <div class="links">
+                <p><a href="https://johnhosking.com" target="_blank">Visit site<font-awesome :icon="['fas', 'external-link-alt']"/></a></p>
+                <p><a href="https://github.com/DanAddison/John-Hosking" target="_blank">View code<font-awesome :icon="['fab', 'github']"/></a></p>
+              </div>
+            </div>
         </div>
 
         <div class="portfolio-item">
-          <a href="#" @click.prevent="show">
             <g-image
               alt="dan4ruby.com screenshot"
               src="../assets/images/portfolio/Dan4Ruby.jpg"
@@ -77,10 +54,15 @@
               width="500"
               fit="cover"
             />
-          </a>
-          <modal name="modal-project">
-            testing again
-          </modal>
+            <div class="portfolio-item__overlay">
+              <h1>dan4ruby.com</h1>
+              <p class="subtitle">Wedding event information website.</p>
+              <p class="tech-stack"><span>Tech stack: </span>Sass, Nunjucks, jQuery, Gulp, Git</p>
+              <div class="links">
+                <p><a href="https://dan4ruby.com" target="_blank">Visit site<font-awesome :icon="['fas', 'external-link-alt']"/></a></p>
+                <p><a href="https://github.com/DanAddison/dan4ruby" target="_blank">View code<font-awesome :icon="['fab', 'github']"/></a></p>
+              </div>
+            </div>
         </div>
 
         <div class="portfolio-item">
@@ -92,6 +74,15 @@
               width="500"
             fit="cover"
           />
+          <div class="portfolio-item__overlay">
+              <h1>ellisbolton.com</h1>
+              <p class="subtitle">A portfolio website for an illustrator.</p>
+              <p class="tech-stack"><span>Tech stack: </span>WordPress, Sass, jQuery, Gulp, Git</p>
+              <div class="links">
+                <p><a href="https://ellisbolton.com" target="_blank">Visit site<font-awesome :icon="['fas', 'external-link-alt']"/></a></p>
+                <p><a href="https://github.com/DanAddison/Ellis-Bolton" target="_blank">View code<font-awesome :icon="['fab', 'github']"/></a></p>
+              </div>
+            </div>
         </div>
 
         <div class="portfolio-item">
@@ -103,10 +94,17 @@
               width="500"
             fit="cover"
           />
+          <div class="portfolio-item__overlay">
+              <h1>pen-and-plant.com</h1>
+              <p class="subtitle">An online portfolio and shop for an illustrator.</p>
+              <p class="tech-stack"><span>Tech stack: </span>WordPress, WooCommerce, Sass, jQuery, Gulp, Git</p>
+              <div class="links">
+                <p><a href="https://github.com/DanAddison/Pen-and-Plant" target="_blank">View code<font-awesome :icon="['fab', 'github']"/></a></p>
+              </div>
+            </div>
         </div>
 
         <div class="portfolio-item">
-          <a href="#" @click.prevent="show">
             <g-image
               alt="daniel-addison-lyrics-archive screenshot"
               src="../assets/images/portfolio/Lyrics-Archive.jpg"
@@ -115,10 +113,15 @@
               width="500"
               fit="cover"
             />
-          </a>
-          <modal name="modal-project">
-            still testing
-          </modal>
+            <div class="portfolio-item__overlay">
+              <h1>lyrics-archive.com</h1>
+              <p class="subtitle">A documentation website for a songwriter.</p>
+              <p class="tech-stack"><span>Tech stack: </span>Markdown, Javascript, Docsify, Git</p>
+              <div class="links">
+                <p><a href="https://daniel-addison-lyrics-archive.netlify.com/#/" target="_blank">Visit site<font-awesome :icon="['fas', 'external-link-alt']"/></a></p>
+                <p><a href="https://github.com/DanAddison/Songwriting" target="_blank">View code<font-awesome :icon="['fab', 'github']"/></a></p>
+              </div>
+            </div>
         </div>
 
       </div>
@@ -127,20 +130,6 @@
 </template>
 
 <script>
-
-
-export default {
-
-  methods: {
-
-    show () {
-      this.$modal.show('modal-project');
-    },
-    hide () {
-      this.$modal.hide('modal-project');
-    }
-  }
-}
 
 </script>
 
@@ -153,110 +142,106 @@ section.resume-section {
   display: flex;
   flex-wrap: wrap;
 }
+
 .portfolio-item {
+  position: relative;
   max-width: 100%;
   flex: 1 0 400px;
+  min-width: 300px;
   overflow: hidden;
-  margin: 0 2rem 2rem 0;
+  margin-bottom: 2rem;
   box-shadow: 0px 0px 11px -6px rgba(0,0,0,0.75);
+  transition: .2s;
+
+
+  @media (min-width: 600px) {
+    max-width: 47%;
+
+    &:nth-of-type(odd) {
+      margin-right: 2rem;
+    }
+  }
+
+  @media (min-width: 1400px) {
+    margin-right: 2rem;
+  }
+
+  &:hover,
+  &:focus {
+    transform: scale(1.07);
+    box-shadow: 0px 0px 11px -2px rgba(0,0,0,0.5);
+  }
 
   img {
     display: block;
     width: 100%;
     height: 100%;
   }
-
-  @media (min-width: 600px) {
-    max-width: 40%;
-  }
 }
 
-.v--modal {
+.portfolio-item__overlay {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  justify-content: center;
+  background-color: $primary-overlay;
+  transition: .3s;
+  opacity: 0;
 
-  .container {
-    padding: 3em 2em;
-    position: relative;
+  &:hover,
+  &:focus {
+    opacity: 1;
+  }
 
-    @media (min-width: 500px) {
-      display: flex;
-    }
+  p {
+    color: $copy;
+    margin: 0;
+    line-height: 1;
+  }
 
-    .modal-close {
-      font-size: 1.5em;
-      line-height: 1;
-      padding: 0.5em;
-      color: $copy-lightest;
-      position: absolute;
-      top: 0;
-      right: 0;
-      cursor: pointer;
+  h1 {
+    font-size: 1.75rem;
+    line-height: 1;
+    margin: 0;
+  }
 
-      &:hover,
-      &:focus {
-        color: $copy-light;
-      }
-    }
+  .subtitle {
+    font-weight: bold;
+    margin: .5em 0 .7em;
+  }
 
-    .modal-copy {
-      margin-bottom: 2em;
+  .tech-stack {
+    color: $copy-light;
+    font-size: .9rem;
+  }
+    
+  .links {
+    display: flex;
+    margin-top: 1rem;
 
-      @media (min-width: 600px) {
-        padding-right: 2em;
-        margin-bottom: 0;
-      }
-
-      p {
-        color: $copy;
-
-      }
-
-      h1 {
-        font-size: 2em;
-        line-height: 1;
-        margin: 0;
-      }
-
-      .subtitle {
-        font-weight: bold;
-      }
-
-      .tech-stack {
-        color: $copy-light;
-
-        span {
-          font-weight: bold;
-        }
-      }
-
-      .modal-copy__link {
-        margin-bottom: .5em;
-        margin-top: 0;
-        
-        a {
-          color: $primary;
-          
-          svg {
-            padding-left: .3em;
-          }
-
-          &:hover,
-          &:focus {
-            color: $secondary;
-          }
-        }
-      }
-    }
-
-    .modal-image {
-      flex-shrink: 0;
+    p {
+      flex-grow: 1;
+      margin-bottom: .5em;
+      margin-top: 0;
+      color: $primary;
       
-      img {
-        box-shadow: 0px 0px 11px -6px rgba(0,0,0,0.75);
-        height: auto;
-        max-width: 300px;
+      svg {
+        padding-left: .3em;
+      }
 
-        @media (min-width: 600px) {
-          max-width: 200px;
+      a {
+        color: $primary;
+
+        &:hover,
+        &:focus {
+          color: $secondary;
         }
       }
     }
