@@ -16,8 +16,8 @@ function addStyleResource (rule) {
 }
 
 module.exports = {
-  siteName: 'DA Resume',
-  siteUrl: 'https://da-resume.netlify.com',
+  siteName: 'Dan Addison Creative',
+  siteUrl: 'https://danaddisoncreative.com',
   
   chainWebpack (config) {
     // Load variables for all vue-files

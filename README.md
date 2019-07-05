@@ -1,5 +1,7 @@
 # Online Resume
 
+[Live site](https://danaddisoncreative.com)
+
 Created with **Gridsome** `gridsome create new-project`.
 
 I then copied lots of code from [this awesome starter](https://github.com/LokeCarlsson/gridsome-starter-resume) by Loke Carlsson. I did it the long way to learn more and to omit bootstrap from the project, but I haven't changed much about the design.
