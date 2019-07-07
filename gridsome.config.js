@@ -29,6 +29,13 @@ module.exports = {
   },
   
   plugins: [
-
+    {
+      use: 'gridsome-plugin-gtm',
+      options: {
+        id: 'GTM-PBBMXGL',
+        enabled: true,
+        debug: true
+      }
+    }
   ]
 }

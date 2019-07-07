@@ -37,7 +37,7 @@ export default {
     Contact
   },
   metaInfo: {
-    title: "DA Resume",
+    title: "Resume",
   }
 };
 </script>
