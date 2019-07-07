@@ -3,7 +3,7 @@
       <h2>Interests</h2>
       <p class="lead">I love low-angle sunshine, family and friends, indie cinema, languid bike rides, calisthenics, literary fiction, summer sea swimming, Shane Carruth, Alex Honnold, Rose Namajunas, Kendrick Lamar and Alan Partridge.</p>
       <div class="resume-section__video">
-        <p>I also make music, and sometimes videos, and occasionally I make artistic contributions to Strange Cargo Arts. So... here's a video I made of a Strange Cargo event that features my music!</p>
+        <p>I also make music, and sometimes videos, and occasionally I make artistic contributions to <a href="http://www.strangecargo.org.uk/" target="_blank" class="link-text">Strange Cargo Arts</a>. So... here's a video I made of a Strange Cargo event that features my music!</p>
         <div class="video-container">
           <iframe width="560" height="315" src="https://www.youtube.com/embed/TERMLA3eiRo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>

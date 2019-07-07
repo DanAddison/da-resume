@@ -80,7 +80,7 @@
               <p class="tech-stack"><span>Tech stack: </span>WordPress, Sass, jQuery, Gulp</p>
               <div class="links">
                 <p><a href="https://ellisbolton.com" target="_blank">Visit site<font-awesome :icon="['fas', 'external-link-alt']"/></a></p>
-                <p><a href="https://github.com/DanAddison/Ellis-Bolton" target="_blank">View code<font-awesome :icon="['fab', 'github']"/></a></p>
+                <p><a href="https://github.com/DanAddison/ellis-bolton-wordpress" target="_blank">View code<font-awesome :icon="['fab', 'github']"/></a></p>
               </div>
             </div>
         </div>
