@@ -16,4 +16,17 @@ export default function (Vue, { router, head, isClient }) {
     rel: 'stylesheet',
     href: 'https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i'
   })
+
+  head.meta.push({
+    name: 'keywords',
+    content: 'Web Developer, Web Designer, Resume, online CV, Folkestone'
+  })
+  head.meta.push({
+    name: 'description',
+    content: 'Folkestone based web developer Dan Addison\'s online resume with portfolio'
+  })
+  head.meta.push({
+    name: 'author',
+    content: 'Dan Addison'
+  })
 }
