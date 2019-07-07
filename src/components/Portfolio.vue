@@ -16,7 +16,7 @@
           <div class="portfolio-item__overlay">
             <h1>jm-woodcraft.com</h1>
             <p class="subtitle">Bespoke WordPress site for a carpenter.</p>
-            <p class="tech-stack"><span>Tech stack: </span>WordPress, Sass, jQuery, Gulp, Git</p>
+            <p class="tech-stack"><span>Tech stack: </span>WordPress, Sass, jQuery, Gulp</p>
             <div class="links">
               <p><a href="https://jm-woodcraft.com" target="_blank">Visit site<font-awesome :icon="['fas', 'external-link-alt']"/></a></p>
               <p><a href="https://github.com/DanAddison/JM-Woodcraft" target="_blank">View code<font-awesome :icon="['fab', 'github']"/></a></p>
@@ -37,7 +37,7 @@
             <div class="portfolio-item__overlay">
               <h1>johnhosking.com</h1>
               <p class="subtitle">A portfolio website for an artist.</p>
-              <p class="tech-stack"><span>Tech stack: </span>Sass, Nunjucks, jQuery, Gulp, Git</p>
+              <p class="tech-stack"><span>Tech stack: </span>Sass, Nunjucks, jQuery, Gulp</p>
               <div class="links">
                 <p><a href="https://johnhosking.com" target="_blank">Visit site<font-awesome :icon="['fas', 'external-link-alt']"/></a></p>
                 <p><a href="https://github.com/DanAddison/John-Hosking" target="_blank">View code<font-awesome :icon="['fab', 'github']"/></a></p>
@@ -57,7 +57,7 @@
             <div class="portfolio-item__overlay">
               <h1>dan4ruby.com</h1>
               <p class="subtitle">Wedding event information website.</p>
-              <p class="tech-stack"><span>Tech stack: </span>Sass, Nunjucks, jQuery, Gulp, Git</p>
+              <p class="tech-stack"><span>Tech stack: </span>Sass, Nunjucks, jQuery, Gulp</p>
               <div class="links">
                 <p><a href="https://dan4ruby.com" target="_blank">Visit site<font-awesome :icon="['fas', 'external-link-alt']"/></a></p>
                 <p><a href="https://github.com/DanAddison/dan4ruby" target="_blank">View code<font-awesome :icon="['fab', 'github']"/></a></p>
@@ -77,7 +77,7 @@
           <div class="portfolio-item__overlay">
               <h1>ellisbolton.com</h1>
               <p class="subtitle">A portfolio website for an illustrator.</p>
-              <p class="tech-stack"><span>Tech stack: </span>WordPress, Sass, jQuery, Gulp, Git</p>
+              <p class="tech-stack"><span>Tech stack: </span>WordPress, Sass, jQuery, Gulp</p>
               <div class="links">
                 <p><a href="https://ellisbolton.com" target="_blank">Visit site<font-awesome :icon="['fas', 'external-link-alt']"/></a></p>
                 <p><a href="https://github.com/DanAddison/Ellis-Bolton" target="_blank">View code<font-awesome :icon="['fab', 'github']"/></a></p>
@@ -97,7 +97,7 @@
           <div class="portfolio-item__overlay">
               <h1>pen-and-plant.com</h1>
               <p class="subtitle">An online portfolio and shop for an illustrator.</p>
-              <p class="tech-stack"><span>Tech stack: </span>WordPress, WooCommerce, Sass, jQuery, Gulp, Git</p>
+              <p class="tech-stack"><span>Tech stack: </span>WordPress, WooCommerce, Sass, jQuery, Gulp</p>
               <div class="links">
                 <p><a href="https://github.com/DanAddison/Pen-and-Plant" target="_blank">View code<font-awesome :icon="['fab', 'github']"/></a></p>
               </div>
@@ -116,7 +116,7 @@
             <div class="portfolio-item__overlay">
               <h1>lyrics-archive.com</h1>
               <p class="subtitle">A documentation website for a songwriter.</p>
-              <p class="tech-stack"><span>Tech stack: </span>Markdown, Javascript, Docsify, Git</p>
+              <p class="tech-stack"><span>Tech stack: </span>Markdown, Javascript, Docsify</p>
               <div class="links">
                 <p><a href="https://daniel-addison-lyrics-archive.netlify.com/#/" target="_blank">Visit site<font-awesome :icon="['fas', 'external-link-alt']"/></a></p>
                 <p><a href="https://github.com/DanAddison/Songwriting" target="_blank">View code<font-awesome :icon="['fab', 'github']"/></a></p>
@@ -207,7 +207,7 @@ section.resume-section {
   }
 
   h1 {
-    font-size: 1.75rem;
+    font-size: 1.5rem;
     line-height: 1;
     margin: 0;
   }
@@ -223,8 +223,12 @@ section.resume-section {
   }
     
   .links {
+    position: absolute;
+    bottom: 1rem;
+    left: 0;
+    width: 100%;
     display: flex;
-    margin-top: 1rem;
+    // margin-top: 1rem;
 
     p {
       flex-grow: 1;

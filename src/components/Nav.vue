@@ -7,6 +7,7 @@
           alt="Dan swimming in the ocean"
           src="../assets/images/KefAvatarSquare.jpg"
           class="img-profile"
+          width="300"
         />
       </span>
     </div>
@@ -54,6 +55,7 @@
 #sideNav {
   position: fixed;
   width: 100%;
+  z-index: 10;
   background-color: $primary;
   .nav-link {
     font-weight: 800;
@@ -72,8 +74,6 @@
     left: 0;
     display: flex;
     flex-direction: column;
-    // align-items: flex-start;
-    // flex-grow: 0;
     width: 17rem;
     height: 100vh;
 
@@ -89,8 +89,13 @@
         .img-profile {
           max-width: 10rem;
           max-height: 10rem;
-          border: 0.5rem solid $white-overlay3;
           border-radius: 50%;
+          border: 0.5rem solid $white-overlay3;
+          transition: .3s;
+
+          &:hover {
+            border: 0.5rem solid $white-overlay2;
+          }
         }
       }
     }
