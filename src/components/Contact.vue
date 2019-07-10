@@ -1,12 +1,9 @@
 <template>
   <section class="resume-section" id="contact">
       <h2>Contact</h2>
-      <form name="contact" method="POST" data-netlify="true">
-        <input type="hidden" name="form-name" value="contact" />
-        <p hidden>
-          <label>
-            Don’t fill this out: <input name="bot-field" />
-          </label>
+      <form name="contact" method="POST" netlify-honeypot="bot-field" data-netlify-recaptcha="true" data-netlify="true">
+        <p class="hidden">
+          <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
         </p>
         <p>
           <label>Your Name: </label>
@@ -20,6 +17,7 @@
           <label>Message: </label>
           <textarea name="message"></textarea>
         </p>
+        <div data-netlify-recaptcha="true"></div>
         <p>
           <button type="submit">Send</button>
         </p>
@@ -35,8 +33,8 @@ form {
     display: block;
     width: 95%;
   }
-  label {
-    
+  .hidden {
+    display: none;
   }
   textarea {
     height: 10rem;
