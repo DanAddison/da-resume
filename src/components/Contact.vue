@@ -6,7 +6,6 @@
       name="contact"
       method="post"
       v-on:submit.prevent="handleSubmit"
-      action="/success/"
       data-netlify="true"
       data-netlify-honeypot="bot-field"
     >
@@ -64,7 +63,6 @@
             ...this.formData,
           }),
         })
-        .then(() => this.$router.push('/success'))
         .catch(error => alert(error))
       }
     }
