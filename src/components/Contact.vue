@@ -5,8 +5,7 @@
       name="contact"
       method="POST"
       data-netlify="true"
-      netlify-honeypot="bot-field"
-      data-netlify-recaptcha="true">
+      netlify-honeypot="bot-field">
         <p class="hidden">
           <label>Don’t fill this out if you're human: <input name="bot-field" /></label>
         </p>
@@ -22,7 +21,6 @@
           <label>Message: </label>
           <textarea name="message"></textarea>
         </p>
-        <div data-netlify-recaptcha="true"></div>
         <p>
           <button type="submit">Send</button>
         </p>
