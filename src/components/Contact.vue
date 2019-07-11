@@ -2,6 +2,7 @@
   <section class="resume-section" id="contact">
       <h2>Contact</h2>
       <form 
+      netlify
       name="contact"
       method="POST"
       data-netlify="true"
