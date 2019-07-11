@@ -1,8 +1,13 @@
 <template>
-  <Layout>
     <div class="container">
-      <h1>Boom shake shake shake the room!</h1>
-      <p>Your form submission worked.</p>
+      <h2>Thanks for reaching out!</h2>
+      <p><g-link to="/" class="link-text">&larr; Back to my site</g-link></p>
     </div>
-  </Layout>
 </template>
+
+<style lang="scss" scoped>
+p {
+  font-size: 1.5em;
+}
+
+</style>
