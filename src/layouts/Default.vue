@@ -1,7 +1,7 @@
 <template>
   <div class="layout">
-    <Nav/>
-    <slot/>
+    <Nav />
+    <slot />
   </div>
 </template>
 
@@ -29,5 +29,4 @@ query {
     padding-left: $sidebar-base-width;
   }
 }
-
 </style>

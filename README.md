@@ -1,6 +1,11 @@
-# Online Resume
-
-[Live site](https://danaddisoncreative.com)
+<p align="center">
+  <a href="https://danaddisoncreative.com">
+    <img alt="logo of whiskey tumbler with ice cubes" src="src/assets/images/resume-screenshot.jpg" width="200" />
+  </a>
+</p>
+<h1 align="center">
+  [My online resume](https://danaddisoncreative.com)
+</h1>
 
 Created with **Gridsome** `gridsome create new-project`.
 
