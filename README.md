@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://danaddisoncreative.com">
-    <img alt="logo of whiskey tumbler with ice cubes" src="src/assets/images/resume-screenshot.jpg" width="400" />
+    <img alt="screenshot of developer resume website" src="src/assets/images/resume-screenshot.jpg" width="400" />
   </a>
 </p>
 <h1 align="center">
