@@ -5,6 +5,70 @@
     <div class="resume-item">
       <div class="portfolio-item">
         <g-image
+          alt="Oddments website screenshot in dark mode"
+          src="../assets/images/portfolio/Oddments.screenshot.jpg"
+          class="img-profile"
+          height="312"
+          width="500"
+          fit="cover"
+        />
+        <div class="portfolio-item__overlay">
+          <h1>oddments.da-hosting.uk</h1>
+          <p class="subtitle">A flexible WordPress portfolio/shop theme for creators.</p>
+          <p class="tech-stack">
+            <span>Tech stack:</span> WordPress, WooCommerce, Sass, Gulp
+          </p>
+          <div class="links">
+            <p>
+              <a href="https://oddments.da-hosting.uk" target="_blank">
+                Visit site
+                <font-awesome :icon="['fas', 'external-link-alt']" />
+              </a>
+            </p>
+            <p>
+              <a href="https://github.com/DanAddison/oddments" target="_blank">
+                View code
+                <font-awesome :icon="['fab', 'github']" />
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="portfolio-item">
+        <g-image
+          alt="dan4ruby.com screenshot"
+          src="../assets/images/portfolio/Dan4Ruby.jpg"
+          class="img-profile"
+          height="312"
+          width="500"
+          fit="cover"
+        />
+        <div class="portfolio-item__overlay">
+          <h1>dan4ruby.com</h1>
+          <p class="subtitle">Wedding event information website.</p>
+          <p class="tech-stack">
+            <span>Tech stack:</span> Sass, Nunjucks, jQuery, Gulp
+          </p>
+          <div class="links">
+            <p>
+              <a href="https://dan4ruby.com" target="_blank">
+                Visit site
+                <font-awesome :icon="['fas', 'external-link-alt']" />
+              </a>
+            </p>
+            <p>
+              <a href="https://github.com/DanAddison/dan4ruby" target="_blank">
+                View code
+                <font-awesome :icon="['fab', 'github']" />
+              </a>
+            </p>
+          </div>
+        </div>
+      </div>
+
+      <div class="portfolio-item">
+        <g-image
           alt="jm-woodcraft.com screenshot"
           src="../assets/images/portfolio/JM-Woodcraft.jpg"
           height="312"
@@ -14,7 +78,7 @@
 
         <div class="portfolio-item__overlay">
           <h1>jm-woodcraft.com</h1>
-          <p class="subtitle">Bespoke WordPress site for a carpenter.</p>
+          <p class="subtitle">Bespoke brochure/archive site for a carpenter.</p>
           <p class="tech-stack">
             <span>Tech stack:</span> WordPress, Sass, jQuery, Gulp
           </p>
@@ -70,38 +134,6 @@
 
       <div class="portfolio-item">
         <g-image
-          alt="dan4ruby.com screenshot"
-          src="../assets/images/portfolio/Dan4Ruby.jpg"
-          class="img-profile"
-          height="312"
-          width="500"
-          fit="cover"
-        />
-        <div class="portfolio-item__overlay">
-          <h1>dan4ruby.com</h1>
-          <p class="subtitle">Wedding event information website.</p>
-          <p class="tech-stack">
-            <span>Tech stack:</span> Sass, Nunjucks, jQuery, Gulp
-          </p>
-          <div class="links">
-            <p>
-              <a href="https://dan4ruby.com" target="_blank">
-                Visit site
-                <font-awesome :icon="['fas', 'external-link-alt']" />
-              </a>
-            </p>
-            <p>
-              <a href="https://github.com/DanAddison/dan4ruby" target="_blank">
-                View code
-                <font-awesome :icon="['fab', 'github']" />
-              </a>
-            </p>
-          </div>
-        </div>
-      </div>
-
-      <div class="portfolio-item">
-        <g-image
           alt="ellisbolton.com screenshot"
           src="../assets/images/portfolio/Ellis-Bolton.jpg"
           class="img-profile"
@@ -124,32 +156,6 @@
             </p>
             <p>
               <a href="https://github.com/DanAddison/ellis-bolton-wordpress" target="_blank">
-                View code
-                <font-awesome :icon="['fab', 'github']" />
-              </a>
-            </p>
-          </div>
-        </div>
-      </div>
-
-      <div class="portfolio-item">
-        <g-image
-          alt="Pen &amp; Plant website screenshot"
-          src="../assets/images/portfolio/Pen-and-Plant.jpg"
-          class="img-profile"
-          height="312"
-          width="500"
-          fit="cover"
-        />
-        <div class="portfolio-item__overlay">
-          <h1>pen-and-plant.com</h1>
-          <p class="subtitle">An online portfolio and shop for an illustrator.</p>
-          <p class="tech-stack">
-            <span>Tech stack:</span> WordPress, WooCommerce, Sass, Gulp
-          </p>
-          <div class="links">
-            <p>
-              <a href="https://github.com/DanAddison/Pen-and-Plant" target="_blank">
                 View code
                 <font-awesome :icon="['fab', 'github']" />
               </a>

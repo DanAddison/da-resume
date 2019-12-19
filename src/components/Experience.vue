@@ -53,7 +53,7 @@
         <p class="resume-date">January 2015 - June 2018</p>
         <p>
           Handling emergency Lifeline calls from elderly and vulnerable clients. Also handling emergency Out of Hours calls for Shepway Council and Thanet Council.
-          The role demanded efficient prioritising and rigorous attention to detail while under pressure, a level-headed approach to problem solving, and a passion for helping people and protecting their dignity.
+          The role demanded efficient prioritising and rigorous attention to detail while under pressure, a level-headed approach to problem solving, and a passion for helping people to retain their dignity and independence.
         </p>
       </div>
     </div>

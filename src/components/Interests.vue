@@ -4,16 +4,12 @@
     <p
       class="lead"
     >I love low-angle sunshine, family and friends, indie cinema, languid bike rides, calisthenics, literary fiction, summer sea swimming, Shane Carruth, Alex Honnold, Rose Namajunas, Kendrick Lamar and Alan Partridge.</p>
-    <div class="resume-section__video">
-      <p>
-        I also make music, and sometimes videos, and occasionally I make artistic contributions to
-        <a
-          href="http://www.strangecargo.org.uk/"
-          target="_blank"
-          class="link-text"
-        >Strange Cargo Arts</a>. Here's an example of all three in one: a video I made of a Strange Cargo event that features my music!
-      </p>
-      <div class="video-container">
+    <p>
+      I also make music, YouTube videos, and art. I have a separate website dedicated to this artistic output - interested parties will find lots to explore
+      <a href="https://oddments.da-hosting.uk/" target="_blank" class="link-text">here</a>.
+    </p>
+    <!-- <div class="resume-section__video"> -->
+    <!-- <div class="video-container">
         <iframe
           width="560"
           height="315"
@@ -22,8 +18,8 @@
           allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
         ></iframe>
-      </div>
-    </div>
+    </div>-->
+    <!-- </div> -->
   </section>
 </template>
 
@@ -31,10 +27,10 @@
 #interests {
   max-width: 40rem;
 }
-.resume-section__video {
+/* .resume-section__video {
   max-width: 500px;
-}
-.video-container {
+} */
+/* .video-container {
   position: relative;
   padding-bottom: 56.25%;
   height: 0;
@@ -47,5 +43,5 @@
     height: 100%;
     display: block;
   }
-}
+} */
 </style>

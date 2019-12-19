@@ -11,11 +11,11 @@
       <a
         href="https://nebulodesign.com"
         class="link-text"
-      >Nebulo</a>, and have been increasingly exploring static site generators built on React and Vue.
+      >Nebulo</a>, and experiment in my spare time with static site generators built on React and Vue.
     </p>
     <p
       class="lead"
-    >In 2016 I shifted my career path towards web development to better satisfy some of my key drives: for learning, for analytical thinking, for creating compelling things, and for sharing with others.</p>
+    >Web development satisfies some of my key drives: for learning, for analytical thinking, for creating compelling things, and for sharing with others.</p>
 
     <div class="social-icons">
       <a href="https://github.com/DanAddison" target="_blank">
