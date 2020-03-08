@@ -6,7 +6,11 @@
     >I love low-angle sunshine, family and friends, indie cinema, languid bike rides, calisthenics, literary fiction, summer sea swimming, Shane Carruth, Alex Honnold, Rose Namajunas, Kendrick Lamar and Alan Partridge.</p>
     <p>
       I also make music, YouTube videos, and art. I have a separate website dedicated to this artistic output - interested parties will find lots to explore
-      <a href="https://oddments.da-hosting.uk/" target="_blank" class="link-text">here</a>.
+      <a
+        href="https://danaddison.uk/"
+        target="_blank"
+        class="link-text"
+      >here</a>.
     </p>
     <!-- <div class="resume-section__video"> -->
     <!-- <div class="video-container">

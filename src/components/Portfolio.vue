@@ -13,14 +13,14 @@
           fit="cover"
         />
         <div class="portfolio-item__overlay">
-          <h1>oddments.da-hosting.uk</h1>
+          <h1>danaddison.uk</h1>
           <p class="subtitle">A flexible WordPress portfolio/shop theme for creators.</p>
           <p class="tech-stack">
             <span>Tech stack:</span> WordPress, WooCommerce, Sass, Gulp
           </p>
           <div class="links">
             <p>
-              <a href="https://oddments.da-hosting.uk" target="_blank">
+              <a href="https://danaddison.uk" target="_blank">
                 Visit site
                 <font-awesome :icon="['fas', 'external-link-alt']" />
               </a>
