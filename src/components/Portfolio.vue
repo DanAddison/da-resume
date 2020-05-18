@@ -48,7 +48,7 @@
           <h1>dan4ruby.com</h1>
           <p class="subtitle">Wedding event information website.</p>
           <p class="tech-stack">
-            <span>Tech stack:</span> Sass, Nunjucks, jQuery, Gulp
+            <span>Tech stack:</span> Gatsby, Styled Components, Styled System, Typeform
           </p>
           <div class="links">
             <p>
