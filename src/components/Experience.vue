@@ -5,10 +5,19 @@
     <div class="resume-item">
       <div class="resume-content">
         <h3>Web Developer</h3>
+        <p class="subheading">Purr</p>
+        <p class="resume-date">August 2020 - present</p>
+        <p>Member of a small team of developers at a London digital agency specialising in modern WordPress development, with best-practice approaches towards security, maintenance, deployment and continuous integration, SEO, accessibility and performance.</p>
+      </div>
+    </div>
+
+    <div class="resume-item">
+      <div class="resume-content">
+        <h3>Web Developer</h3>
         <p class="subheading">Nebulo</p>
-        <p class="resume-date">June 2018 - present</p>
+        <p class="resume-date">June 2018 - August 2020</p>
         <p>
-          Building bespoke WordPress websites within a small design agency, I am responsible for developing both front and back end. I work closely with two designers, and with our clients who are primarily in the arts, education, and charity sectors. Recent projects I have delivered include an events site for
+          Building bespoke WordPress websites within a small design agency focused on ethics and sustainability, with clients primarily in the arts, education, and charity sectors. I was responsible for all web development, including maintaining >80 legacy sites, as well as UX design and client consultation. Projects I delivered include an events site for
           <a
             class="link-text"
             href="https://canterburyfestival.co.uk/"

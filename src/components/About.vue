@@ -7,11 +7,12 @@
     <p class="subheading">Web Developer</p>
     <p class="lead">
       I'm a web developer from Folkestone with a background in art and music.
-      I create bespoke WordPress websites with design agency
+      I create bespoke WordPress websites at London digital agency
       <a
-        href="https://nebulodesign.com"
+        href="https://purrgroup.com/"
         class="link-text"
-      >Nebulo</a>, and experiment in my spare time with static site generators built on React and Vue.
+        target="__blank"
+      >Purr</a>, and experiment in my spare time with static site generators built on React and Vue.
     </p>
     <p
       class="lead"
