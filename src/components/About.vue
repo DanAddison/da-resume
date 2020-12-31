@@ -12,7 +12,7 @@
         href="https://purrgroup.com/"
         class="link-text"
         target="__blank"
-      >Purr</a>, and experiment in my spare time with static site generators built on React and Vue.
+      >Purr</a>, and build personal and freelance JAMstack sites in my spare time.
     </p>
     <p
       class="lead"

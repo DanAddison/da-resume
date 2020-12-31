@@ -3,15 +3,12 @@
     <h2>Interests</h2>
     <p
       class="lead"
-    >I love low-angle sunshine, family and friends, indie cinema, languid bike rides, calisthenics, literary fiction, summer sea swimming, Shane Carruth, Alex Honnold, Rose Namajunas, Kendrick Lamar and Alan Partridge.</p>
-    <p>
-      I also make music, YouTube videos, and art. I have a separate website dedicated to this artistic output - interested parties will find lots to explore
-      <a
+    >I have an easy going nature, but with the discipline and self-motivation to get lots of stuff done. Fun stuff, where possible. I have an affinity for many expressive artforms, so there's always a project on the go.</p>
+    <p>If you're interested to know more, feel free to check out <a
         href="https://danaddison.uk/"
         target="_blank"
         class="link-text"
-      >here</a>.
-    </p>
+      >danaddison.uk</a> which is dedicated to my creative pastimes.</p>
     <!-- <div class="resume-section__video"> -->
     <!-- <div class="video-container">
         <iframe

@@ -7,7 +7,7 @@
         <h3>Web Developer</h3>
         <p class="subheading">Purr</p>
         <p class="resume-date">August 2020 - present</p>
-        <p>Member of a small team of developers at a London digital agency specialising in modern WordPress development, with best-practice approaches towards security, maintenance, deployment and continuous integration, SEO, accessibility and performance.</p>
+        <p>Member of a small team of developers at a London digital agency specialising in modern WordPress development. We approach our WordPress projects with modern development tools and patterns, using Bedrock for enhanced security and dependency management, React for custom Gutenberg block development, and atomic deployments for robust zero downtime delivery.</p>
       </div>
     </div>
 
@@ -42,7 +42,7 @@
         <h3>Freelance Web Developer</h3>
         <p class="subheading">Self Employed</p>
         <p class="resume-date">September 2017 - present</p>
-        <p>I have designed, developed and launched a number of client websites to date, from simple portfolio sites built on Vue.js to e-commerce sites built on WordPress. I pride myself on delivering end-to-end solutions for creative individuals and businesses who need an approachable, dependable developer who will take care of the entire website project while they get on and work.</p>
+        <p>I have designed, developed and launched a number of client websites to date, from simple portfolio sites built on Vue or React to e-commerce sites built on WordPress. I pride myself on delivering end-to-end solutions for creative individuals and businesses who need an approachable, dependable developer who will take care of the entire website project while they get on and work.</p>
       </div>
     </div>
 

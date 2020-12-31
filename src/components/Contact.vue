@@ -2,7 +2,7 @@
   <section class="resume-section" id="contact">
     <h2>Contact</h2>
 
-    <p class="lead">Feel free to get in touch - I'm a friendly fellow!</p>
+    <p class="lead">Feel free to get in touch!</p>
 
     <form
       name="contact"

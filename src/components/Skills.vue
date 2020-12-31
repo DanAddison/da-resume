@@ -41,19 +41,31 @@
         <span>
           <font-awesome :icon="['fas', 'check']" />
         </span>
+        Clean, semantic, maintainable code
+      </li>
+      <li>
+        <span>
+          <font-awesome :icon="['fas', 'check']" />
+        </span>
         Accessibility and UX principles
       </li>
       <li>
         <span>
           <font-awesome :icon="['fas', 'check']" />
         </span>
-        Content Management solutions
+        Package managers and build tools
       </li>
       <li>
         <span>
           <font-awesome :icon="['fas', 'check']" />
         </span>
-        Clean, semantic, maintainable code
+        Atomic deployments
+      </li>
+      <li>
+        <span>
+          <font-awesome :icon="['fas', 'check']" />
+        </span>
+        Content Management solutions
       </li>
     </ul>
   </section>

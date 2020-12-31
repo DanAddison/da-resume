@@ -5,28 +5,22 @@
     <div class="resume-item">
       <div class="portfolio-item">
         <g-image
-          alt="Oddments website screenshot in dark mode"
-          src="../assets/images/portfolio/Oddments.screenshot.jpg"
+          alt="Ben Fletcher website screenshot in dark mode"
+          src="../assets/images/web-screenshots/BenFletcher.jpg"
           class="img-profile"
-          height="312"
+          height="364"
           width="500"
           fit="cover"
         />
         <div class="portfolio-item__overlay">
-          <h1>danaddison.uk</h1>
-          <p class="subtitle">A flexible WordPress portfolio/shop theme for creators.</p>
+          <h1>benfletcher.com</h1>
+          <p class="subtitle">Uses my flexible WordPress portfolio/shop theme for creators.</p>
           <p class="tech-stack">
-            <span>Tech stack:</span> WordPress, WooCommerce, Sass, Gulp
+            <span>Tech stack:</span> WordPress, WooCommerce, Sass, jQuery, Gulp
           </p>
           <div class="links">
             <p>
-              <a href="https://danaddison.uk" target="_blank">
-                Visit site
-                <font-awesome :icon="['fas', 'external-link-alt']" />
-              </a>
-            </p>
-            <p>
-              <a href="https://github.com/DanAddison/oddments" target="_blank">
+              <a href="https://github.com/DanAddison/ben-fletcher" target="_blank">
                 View code
                 <font-awesome :icon="['fab', 'github']" />
               </a>
@@ -38,9 +32,9 @@
       <div class="portfolio-item">
         <g-image
           alt="dan4ruby.com screenshot"
-          src="../assets/images/portfolio/Dan4Ruby.jpg"
+          src="../assets/images/web-screenshots/Dan4Ruby.jpg"
           class="img-profile"
-          height="312"
+          height="364"
           width="500"
           fit="cover"
         />
@@ -58,7 +52,7 @@
               </a>
             </p>
             <p>
-              <a href="https://github.com/DanAddison/dan4ruby" target="_blank">
+              <a href="https://github.com/DanAddison/dan4ruby-gatsby" target="_blank">
                 View code
                 <font-awesome :icon="['fab', 'github']" />
               </a>
@@ -70,8 +64,8 @@
       <div class="portfolio-item">
         <g-image
           alt="jm-woodcraft.com screenshot"
-          src="../assets/images/portfolio/JM-Woodcraft.jpg"
-          height="312"
+          src="../assets/images/web-screenshots/JMWoodcraft.jpg"
+          height="364"
           width="500"
           fit="cover"
         />
@@ -102,16 +96,16 @@
       <div class="portfolio-item">
         <g-image
           alt="johnhosking.com screenshot"
-          src="../assets/images/portfolio/John-Hosking.jpg"
+          src="../assets/images/web-screenshots/JohnHosking.jpg"
           class="img-profile"
-          height="312"
+          height="364"
           width="500"
           fit="cover"
         />
 
         <div class="portfolio-item__overlay">
           <h1>johnhosking.com</h1>
-          <p class="subtitle">A portfolio website for an artist.</p>
+          <p class="subtitle">Portfolio website for an artist.</p>
           <p class="tech-stack">
             <span>Tech stack:</span> Sass, Nunjucks, jQuery, Gulp
           </p>
@@ -134,28 +128,28 @@
 
       <div class="portfolio-item">
         <g-image
-          alt="ellisbolton.com screenshot"
-          src="../assets/images/portfolio/Ellis-Bolton.jpg"
+          alt="jazzbeams.com screenshot"
+          src="../assets/images/web-screenshots/JazzBeams.jpg"
           class="img-profile"
-          height="312"
+          height="364"
           width="500"
           fit="cover"
         />
         <div class="portfolio-item__overlay">
-          <h1>ellisbolton.com</h1>
-          <p class="subtitle">A portfolio website for an illustrator.</p>
+          <h1>jazzbeams.com</h1>
+          <p class="subtitle">Brochure website for freelance DJs.</p>
           <p class="tech-stack">
-            <span>Tech stack:</span> Gatsby, React, Rebass, Styled Components
+            <span>Tech stack:</span> Gridsome, Vue, Sass
           </p>
           <div class="links">
             <p>
-              <a href="https://ellisbolton.com" target="_blank">
+              <a href="https://jazzbeams.com" target="_blank">
                 Visit site
                 <font-awesome :icon="['fas', 'external-link-alt']" />
               </a>
             </p>
             <p>
-              <a href="https://github.com/DanAddison/ellis-bolton-wordpress" target="_blank">
+              <a href="https://github.com/DanAddison/jazz-beams" target="_blank">
                 View code
                 <font-awesome :icon="['fab', 'github']" />
               </a>
@@ -167,15 +161,15 @@
       <div class="portfolio-item">
         <g-image
           alt="daniel-addison-lyrics-archive screenshot"
-          src="../assets/images/portfolio/Lyrics-Archive.jpg"
+          src="../assets/images/web-screenshots/LyricsArchive.jpg"
           class="img-profile"
-          height="312"
+          height="364"
           width="500"
           fit="cover"
         />
         <div class="portfolio-item__overlay">
           <h1>lyrics-archive.com</h1>
-          <p class="subtitle">A documentation website for a songwriter.</p>
+          <p class="subtitle">Documentation website for a songwriter.</p>
           <p class="tech-stack">
             <span>Tech stack:</span> Markdown, Javascript, Docsify
           </p>
