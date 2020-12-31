@@ -89,6 +89,14 @@ form {
   textarea {
     height: 10rem;
   }
+  input,
+  textarea {
+        display: block;
+        width: 100%;
+        padding: 0.5em;
+        font-size: 1em;
+        margin-bottom: 1em;
+    }
   button[type="submit"] {
     background-color: $primary;
     color: $white;
