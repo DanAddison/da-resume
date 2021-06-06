@@ -41,7 +41,7 @@
         <span>
           <font-awesome :icon="['fas', 'check']" />
         </span>
-        Clean, semantic, maintainable code
+        Clean, semantic, modular code
       </li>
       <li>
         <span>
@@ -66,6 +66,12 @@
           <font-awesome :icon="['fas', 'check']" />
         </span>
         Content Management solutions
+      </li>
+      <li>
+        <span>
+          <font-awesome :icon="['fas', 'check']" />
+        </span>
+        Documentation
       </li>
     </ul>
   </section>
