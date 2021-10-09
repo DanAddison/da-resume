@@ -46,7 +46,7 @@
           </p>
           <div class="links">
             <p>
-              <a href="https://dan4ruby.com" target="_blank">
+              <a href="https://dan4ruby.netlify.app" target="_blank">
                 Visit site
                 <font-awesome :icon="['fas', 'external-link-alt']" />
               </a>

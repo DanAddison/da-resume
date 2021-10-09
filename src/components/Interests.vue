@@ -3,7 +3,7 @@
     <h2>Interests</h2>
     <p
       class="lead"
-    >I have an easy going nature, but with the discipline and self-motivation to get lots of stuff done. Fun stuff, where possible. I have an affinity for many expressive artforms, so there's always a project on the go.</p>
+    >I have an easy going nature, but with the discipline and self-motivation to get lots of stuff done. Arty, expressive stuff, where possible - there's always a creative project on the go.</p>
     <p>If you're interested to know more, feel free to check out <a
         href="https://danaddison.uk/"
         target="_blank"
