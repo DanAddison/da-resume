@@ -1,7 +1,7 @@
 <template>
   <section class="resume-section" id="portfolio">
     <h2>Portfolio</h2>
-
+    <p class="lead">A few personal/ freelance projects.
     <div class="resume-item">
       <div class="portfolio-item">
         <g-image

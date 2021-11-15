@@ -8,7 +8,7 @@
         <p class="subheading"><a href=
         "https://purrgroup.com/" target="_blank" rel="noopener noreferrer">Purr</a></p>
         <p class="resume-date">August 2020 - present</p>
-        <p>Member of the WordPress team at a London agency that delivers bespoke digital solutions for enterprise clients. We approach our WordPress projects with modern development tools and patterns, using Bedrock for enhanced security and dependency management, React for custom Gutenberg block development, and atomic deployments for robust zero downtime delivery.</p>
+        <p>Member of the website team at a London agency delivering digital solutions for enterprise clients. We use React.js to build Gutenberg blocks for the WordPress CMS, PHP for handling backend logic, Bedrock for enhanced security and dependency management, and atomic deployments for robust zero downtime delivery. Besides my daily dev work I also use my writing skills to contribute to the company blog and documentation.</p>
       </div>
     </div>
 

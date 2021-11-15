@@ -41,13 +41,25 @@
         <span>
           <font-awesome :icon="['fas', 'check']" />
         </span>
+        Accessibility and UX principles
+      </li>
+      <li>
+        <span>
+          <font-awesome :icon="['fas', 'check']" />
+        </span>
+        Content Management solutions
+      </li>
+      <li>
+        <span>
+          <font-awesome :icon="['fas', 'check']" />
+        </span>
         Clean, semantic, modular code
       </li>
       <li>
         <span>
           <font-awesome :icon="['fas', 'check']" />
         </span>
-        Accessibility and UX principles
+        Documentation
       </li>
       <li>
         <span>
@@ -60,18 +72,6 @@
           <font-awesome :icon="['fas', 'check']" />
         </span>
         Atomic deployments
-      </li>
-      <li>
-        <span>
-          <font-awesome :icon="['fas', 'check']" />
-        </span>
-        Content Management solutions
-      </li>
-      <li>
-        <span>
-          <font-awesome :icon="['fas', 'check']" />
-        </span>
-        Documentation
       </li>
     </ul>
   </section>
