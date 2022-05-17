@@ -4,15 +4,15 @@
       Dan
       <span class="text-primary">Addison</span>
     </h1>
-    <p class="subheading">Web Developer</p>
+    <p class="subheading">Web Engineer</p>
     <p class="lead">
-      I'm a web developer from Folkestone with a background in art and music.
-      I create bespoke WordPress websites at London digital agency
+      I'm a developer from Folkestone with a background in art and music.
+      I create Enterprise CMS WordPress builds at London digital agency
       <a
-        href="https://purrgroup.com/"
+        href="https://shape.works/"
         class="link-text"
         target="__blank"
-      >Purr</a>, and build personal and freelance JAMstack sites in my spare time.
+      >Shape Works</a>, and build personal and freelance JAMstack sites in my spare time.
     </p>
     <p
       class="lead"

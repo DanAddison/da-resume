@@ -4,11 +4,11 @@
 
     <div class="resume-item">
       <div class="resume-content">
-        <h3>Web Developer</h3>
+        <h3>Web Engineer</h3>
         <p class="subheading"><a href=
-        "https://purrgroup.com/" target="_blank" rel="noopener noreferrer">Purr</a></p>
+        "https://shape.works/" target="_blank" rel="noopener noreferrer">Shape Works</a></p>
         <p class="resume-date">August 2020 - present</p>
-        <p>Member of the website team at a London agency delivering digital solutions for enterprise clients. We use React.js to build Gutenberg blocks for the WordPress CMS, PHP for handling backend logic, Bedrock for enhanced security and dependency management, and atomic deployments for robust zero downtime delivery. Besides my daily dev work I also use my writing skills to contribute to the company blog and documentation.</p>
+        <p>Engineer at a London agency delivering flexible, secure and future-proofed Enterprise CMS WordPress builds for professional services firms. We use React.js to build Gutenberg blocks for the WordPress CMS, PHP for handling backend logic, Bedrock for enhanced security and dependency management, and atomic deployments for robust zero downtime delivery. Besides my daily dev work I also use my writing skills to contribute to the company blog and documentation.</p>
       </div>
     </div>
 
