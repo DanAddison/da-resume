@@ -5,22 +5,28 @@
     <div class="resume-item">
       <div class="portfolio-item">
         <g-image
-          alt="Ben Fletcher website screenshot in dark mode"
-          src="../assets/images/web-screenshots/BenFletcher.jpg"
+          alt="Signal WP theme screenshot in dark mode"
+          src="../assets/images/web-screenshots/Signal-shop.jpg"
           class="img-profile"
           height="364"
           width="500"
           fit="cover"
         />
         <div class="portfolio-item__overlay">
-          <h1>benfletcher.com</h1>
-          <p class="subtitle">Uses my flexible WordPress portfolio/shop theme for creators.</p>
+          <h1>Signal</h1>
+          <p class="subtitle">A minimal WooCommerce portfolio/shop theme for creators, supports dark mode.</p>
           <p class="tech-stack">
             <span>Tech stack:</span> WordPress, WooCommerce, Sass, jQuery, Gulp
           </p>
           <div class="links">
             <p>
-              <a href="https://github.com/DanAddison/ben-fletcher" target="_blank">
+              <a href="https://signal.da-hosting.uk/" target="_blank">
+                Visit demo
+                <font-awesome :icon="['fas', 'external-link-alt']" />
+              </a>
+            </p>
+            <p>
+              <a href="https://github.com/DanAddison/signal" target="_blank">
                 View code
                 <font-awesome :icon="['fab', 'github']" />
               </a>
