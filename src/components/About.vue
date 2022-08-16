@@ -1,10 +1,10 @@
 <template>
   <section class="resume-section" id="about">
     <h1>
-      Dan
+      Flan
       <span class="text-primary">Addison</span>
     </h1>
-    <p class="subheading">Web Engineer</p>
+    <p class="subheading">F-town Legend</p>
     <p class="lead">
       I'm a developer from Folkestone with a background in art and music.
       I create Enterprise CMS WordPress builds at London digital agency
