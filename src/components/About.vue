@@ -6,7 +6,7 @@
     </h1>
     <p class="subheading">F-town Legend</p>
     <p class="lead">
-      I'm a developer from Folkestone with a background in art and music.
+      I'm an OG from Folkestone with a background in art and music.
       I create Enterprise CMS WordPress builds at London digital agency
       <a
         href="https://shape.works/"
