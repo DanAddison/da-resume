@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://danaddisoncreative.com">
+  <a href="https://resume.danaddison.uk">
     <img alt="screenshot of developer resume website" src="src/assets/images/resume-screenshot.jpg" width="400" />
   </a>
 </p>
