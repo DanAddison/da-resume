@@ -45,14 +45,14 @@
           fit="cover"
         />
         <div class="portfolio-item__overlay">
-          <h1>dan4ruby.com</h1>
-          <p class="subtitle">Wedding event information website.</p>
+          <h1>wedding.danaddison.uk</h1>
+          <p class="subtitle">Event information website.</p>
           <p class="tech-stack">
             <span>Tech stack:</span> Gatsby, Styled Components, Styled System, Typeform
           </p>
           <div class="links">
             <p>
-              <a href="https://dan4ruby.netlify.app" target="_blank">
+              <a href="https://wedding.danaddison.uk" target="_blank">
                 Visit site
                 <font-awesome :icon="['fas', 'external-link-alt']" />
               </a>
@@ -174,14 +174,14 @@
           fit="cover"
         />
         <div class="portfolio-item__overlay">
-          <h1>lyrics-archive.com</h1>
-          <p class="subtitle">Documentation website for a songwriter.</p>
+          <h1>lyrics.danaddison.uk</h1>
+          <p class="subtitle">Documentation website for songwriters.</p>
           <p class="tech-stack">
-            <span>Tech stack:</span> Markdown, Javascript, Docsify
+            <span>Tech stack:</span> Docsify, Markdown, Javascript
           </p>
           <div class="links">
             <p>
-              <a href="https://daniel-addison-lyrics-archive.netlify.com/#/" target="_blank">
+              <a href="https://lyrics.danaddison.uk" target="_blank">
                 Visit site
                 <font-awesome :icon="['fas', 'external-link-alt']" />
               </a>
