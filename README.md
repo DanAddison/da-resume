@@ -7,7 +7,7 @@
   My Online Resume
 </h1>
 
-[Live site](https://danaddisoncreative.com)
+[Live site](https://resume.danaddison.uk)
 
 Created with **Gridsome** `gridsome create new-project`.
 
