@@ -3,7 +3,7 @@
     <h2>Interests</h2>
     <p
       class="lead"
-    >I'm a family-oriented person, and I love my hometown. I'm very disciplined and self-motivated, and tend to get a lot of stuff done. Arty stuff, where possible - there's always a creative project on the go.</p>
+    >I'm very family-oriented, and I love my hometown. Personal interests include songwriting, filmmaking, literary fiction, cinema, running, sea swimming, climbing, and following the UFC.</p>
     <p>If you're interested to know more, feel free to check out <a
         href="https://danaddison.uk/"
         target="_blank"
