@@ -28,9 +28,6 @@
       <a href="https://youtube.com/c/DanAddison" target="_blank">
         <font-awesome :icon="['fab', 'youtube']" />
       </a>
-      <a href="https://instagram.com/dandevelops" target="_blank">
-        <font-awesome :icon="['fab', 'instagram']" />
-      </a>
     </div>
   </section>
 </template>
