@@ -8,7 +8,11 @@
         <p class="subheading"><a href=
         "https://shape.works/" target="_blank" rel="noopener noreferrer">Shape Works</a></p>
         <p class="resume-date">August 2020 - present</p>
-        <p>Engineer at a London agency delivering flexible, secure and future-proofed Enterprise CMS WordPress builds for professional services firms. We use React.js to build Gutenberg blocks for the WordPress CMS, PHP for handling backend logic, Bedrock for enhanced security and dependency management, and atomic deployments for robust zero downtime delivery. Besides my daily dev work I also use my writing skills to contribute to the company blog and documentation.</p>
+        <p>Engineer at a London agency delivering advanced custom website builds for professional services firms. My day-to-day tech stack includes React.js to build Gutenberg blocks for WordPress, PHP for handling backend logic, a Bedrock architecture for enhanced security and dependency management, and DeployBot for robust zero downtime atomic deployments. Besides building websites and providing ongoing maintenance and support to our retainer clients, I also produce the company blog (read my articles <a
+            class="link-text"
+            href="https://shape.works/insights/"
+            target="_blank"
+          >here</a>).</p>
       </div>
     </div>
 

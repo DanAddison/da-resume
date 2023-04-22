@@ -29,7 +29,7 @@
       </li>
     </ul>
 
-    <div class="subheading">Workflow</div>
+    <div class="subheading">My workflow</div>
     <ul class="dev-workflow">
       <li>
         <span>
@@ -59,12 +59,6 @@
         <span>
           <font-awesome :icon="['fas', 'check']" />
         </span>
-        Documentation
-      </li>
-      <li>
-        <span>
-          <font-awesome :icon="['fas', 'check']" />
-        </span>
         Package managers and build tools
       </li>
       <li>
@@ -72,6 +66,12 @@
           <font-awesome :icon="['fas', 'check']" />
         </span>
         Atomic deployments
+      </li>
+      <li>
+        <span>
+          <font-awesome :icon="['fas', 'check']" />
+        </span>
+        Documentation
       </li>
     </ul>
   </section>

@@ -149,7 +149,7 @@
           </p>
           <div class="links">
             <p>
-              <a href="https://jazzbeams.com" target="_blank">
+              <a href="https://jazzbeams.netlify.app" target="_blank">
                 Visit site
                 <font-awesome :icon="['fas', 'external-link-alt']" />
               </a>

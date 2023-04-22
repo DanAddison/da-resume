@@ -4,8 +4,8 @@
       <span class="name">Dan Addison</span>
       <span class="avatar">
         <g-image
-          alt="Dan swimming in the ocean"
-          src="../assets/images/KefAvatarSquare.jpg"
+          alt="Dan simple portrait photo"
+          src="../assets/images/Dan_SW.jpeg"
           class="img-profile"
           width="300"
         />
