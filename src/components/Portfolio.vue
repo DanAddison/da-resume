@@ -13,14 +13,14 @@
           fit="cover"
         />
         <div class="portfolio-item__overlay">
-          <h1>Signal</h1>
+          <h1>signal.danaddison.uk</h1>
           <p class="subtitle">A minimal WooCommerce portfolio/shop theme for creators, supports dark mode.</p>
           <p class="tech-stack">
             <span>Tech stack:</span> WordPress, WooCommerce, Sass, jQuery, Gulp
           </p>
           <div class="links">
             <p>
-              <a href="https://signal.da-hosting.uk/" target="_blank">
+              <a href="https://signal.danaddison.uk/" target="_blank">
                 Visit demo
                 <font-awesome :icon="['fas', 'external-link-alt']" />
               </a>
